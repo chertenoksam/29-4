@@ -1,0 +1,23 @@
+
+<books>
+  <book title="Harry Potter and the Cursed Child" author_name="J.K. Rowling"
+        price="1200" amount="5"/>
+  <book title="Ruby on Rails for Dummies" author_name="Barry Burd"
+        price="500" amount="5"/>
+  <book title="Captain Blood" author_name="Rafael Sabatini"
+        price="600" amount="5"/>
+</books>
+
+<movies>
+<movie title="Леон" director_name="Люк Бессон" year="1994" price="500"
+       amount=
+<movie title="Zootopia" director_name="Byron Howard" year="2016" price="500"
+       amount=
+<movie title="Love and Friendship" director_name="Whit Stillman" year="2016"
+       price="500" amount=
+  "5"/>
+</movies>
+<music_disks>
+<music title="Lemonade" artist_name="Beyonce" year="2016"
+       price="500" amount="5"/>
+</music_disks>
