@@ -1,3 +1,4 @@
+#xml
 require_relative 'product.rb'
 require_relative 'movie.rb'
 require_relative 'book.rb'
